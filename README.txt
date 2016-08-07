@@ -1,0 +1,1 @@
+Give this program sample turn data and hand data as formatted in the sample files. Then give the program a decklist, and the AI uses a Bayes method to compute a distribution of the power level of the deck. This is only designed for Yugioh right now though.
